@@ -3,7 +3,8 @@
 <p align="center">
 Site criado para vendas em forma de modelo. Contém margem para adiocionar inúmeras funcionalidades. 
 <br/>
-<a href="https://wa.me/5534997099745" target="_blank">Faça um orçamento para seu site clicando aqui.</a>
+<a href="https://wa.me/5534997099745" target="_blank">
+Faça um orçamento para seu site clicando aqui.</a>
 </p>
 
 <p align="center">
